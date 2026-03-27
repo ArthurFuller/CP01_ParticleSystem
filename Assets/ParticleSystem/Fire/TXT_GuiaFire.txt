@@ -1,0 +1,3 @@
+Bonfire: Prefab completo, com iluminação, modelo e partículas
+
+PS_fire: Apenas as partículas
